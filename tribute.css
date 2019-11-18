@@ -1,0 +1,65 @@
+*{
+    margin:0;
+    padding: 0;
+    font-family: 'EB Garamond', serif;
+}
+body{
+    padding: 10px;
+    background-color: #CDB7B5;
+}
+
+#main{
+    background-color: whitesmoke;
+    opacity: .85;
+    border-radius: 10px;
+}
+
+#title-div{
+    text-align: center;
+    padding: 20px;
+}
+
+#title{
+    font-size: 30px;
+}
+
+#sub-title{
+    font-size: 15px;
+}
+
+#img-div{
+    text-align: center;
+    margin: auto auto;
+    max-width: 80%;
+    padding: 20px;
+    padding-bottom: 0;
+    height: auto;
+    background-color: white;
+}
+
+#image{
+    margin: auto auto;
+    max-width: 100%;
+    display: block;
+}
+
+#img-caption{
+    line-height: 2em; 
+}
+
+#content{
+    padding: 20px;
+    margin: auto auto;
+    width: 80%;
+    line-height: 4em;
+    font-size: 15px;
+}
+
+#tribute-info{
+    line-height: 2em;
+    list-style: none;
+}
+
+li{
+    margin-bottom: 10px;
+}
